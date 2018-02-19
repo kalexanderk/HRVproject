@@ -1,0 +1,426 @@
+
+Y1
+--------------HRV--------------
+
+Total number of HRV values: 8708
+Number of HRV values < 50: 25. It's 0.287092328893%.
+Number of HRV values >50 & <60: 354. It's 4.06522737712%.
+Number of HRV values >60 & <80: 6787. It's 77.9398254479%.
+Number of HRV values >80 & <90: 1381. It's 15.858980248%.
+Number of HRV values >90: 161. It's 1.84887459807%.
+
+------------POWER------------
+
+Average total power is: 496553.379462.
+
+HF/LF/VLF
+Average HF is: 198120.001497.
+Average LF is: 118414.348755.
+Average VLF is: 52971.3989428.
+Average ULF is: 120450.942476.
+
+----INDEX OF CENTRALISATION----
+Average IC = 51937.8880666
+
+-INDEX OF SUBCORTICAL CENTERS ACTIVITY-
+
+Average ISCA = 0.455911502154
+
+ ---------STRESS INDEX---------
+
+Average SI = 50.3138170732
+
+
+
+
+
+
+
+
+
+
+Y2
+--------------HRV--------------
+
+Total number of HRV values: 7034
+Number of HRV values < 50: 63. It's 0.89564970145%.
+Number of HRV values >50 & <60: 4678. It's 66.5055444982%.
+Number of HRV values >60 & <80: 2168. It's 30.8217230594%.
+Number of HRV values >80 & <90: 103. It's 1.46431617856%.
+Number of HRV values >90: 22. It's 0.312766562411%.
+
+------------POWER------------
+
+Average total power is: 559268.320447.
+
+HF/LF/VLF
+Average HF is: 109198.157297.
+Average LF is: 141663.43024.
+Average VLF is: 110070.765949.
+Average ULF is: 195778.317943.
+
+----INDEX OF CENTRALISATION----
+Average IC = 107834.556503
+
+-INDEX OF SUBCORTICAL CENTERS ACTIVITY-
+
+Average ISCA = 0.742882771231
+
+ ---------STRESS INDEX---------
+
+Average SI = 37.0017431147
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Y3
+--------------HRV--------------
+
+Total number of HRV values: 7642
+Number of HRV values < 50: 1. It's 0.0130855796912%.
+Number of HRV values >50 & <60: 1628. It's 21.3033237372%.
+Number of HRV values >60 & <80: 6004. It's 78.5658204658%.
+Number of HRV values >80 & <90: 9. It's 0.117770217221%.
+Number of HRV values >90: 0. It's 0.0%.
+
+------------POWER------------
+
+Average total power is: 256343.586407.
+
+HF/LF/VLF
+Average HF is: 21730.6881947.
+Average LF is: 115300.444373.
+Average VLF is: 42004.3740353.
+Average ULF is: 76847.476065.
+
+----INDEX OF CENTRALISATION----
+Average IC = 41219.1585653
+
+-INDEX OF SUBCORTICAL CENTERS ACTIVITY-
+
+Average ISCA = 0.375399485897
+
+ ---------STRESS INDEX---------
+
+Average SI = 70.1566591341
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Y4
+--------------HRV--------------
+
+Total number of HRV values: 5509
+Number of HRV values < 50: 4685. It's 85.0426574696%.
+Number of HRV values >50 & <60: 679. It's 12.3252858958%.
+Number of HRV values >60 & <80: 145. It's 2.6320566346%.
+Number of HRV values >80 & <90: 0. It's 0.0%.
+Number of HRV values >90: 0. It's 0.0%.
+
+------------POWER------------
+
+Average total power is: 767690.45482.
+
+HF/LF/VLF
+Average HF is: 102896.288163.
+Average LF is: 169804.891633.
+Average VLF is: 169891.450938.
+Average ULF is: 314735.235128.
+
+----INDEX OF CENTRALISATION----
+Average IC = 166840.127209
+
+-INDEX OF SUBCORTICAL CENTERS ACTIVITY-
+
+Average ISCA = 1.03665324042
+
+ ---------STRESS INDEX---------
+
+Average SI = 18.629090841
+
+
+
+
+
+
+
+
+
+
+
+
+
+Y5
+--------------HRV--------------
+
+Total number of HRV values: 6964
+Number of HRV values < 50: 284. It's 4.07811602527%.
+Number of HRV values >50 & <60: 4476. It's 64.2734060885%.
+Number of HRV values >60 & <80: 2154. It's 30.9304997128%.
+Number of HRV values >80 & <90: 49. It's 0.703618609994%.
+Number of HRV values >90: 1. It's 0.0143595634693%.
+
+------------POWER------------
+
+Average total power is: 493282.979811.
+
+HF/LF/VLF
+Average HF is: 39225.0573615.
+Average LF is: 173053.591512.
+Average VLF is: 138747.036699.
+Average ULF is: 141183.080489.
+
+----INDEX OF CENTRALISATION----
+Average IC = 135982.116665
+
+-INDEX OF SUBCORTICAL CENTERS ACTIVITY-
+
+Average ISCA = 0.773952128417
+
+ ---------STRESS INDEX---------
+
+Average SI = 44.613370677
+
+
+
+
+
+
+
+
+
+
+
+
+
+O1
+--------------HRV--------------
+
+Total number of HRV values: 7168
+Number of HRV values < 50: 0. It's 0.0%.
+Number of HRV values >50 & <60: 4292. It's 59.8772321429%.
+Number of HRV values >60 & <80: 2876. It's 40.1227678571%.
+Number of HRV values >80 & <90: 0. It's 0.0%.
+Number of HRV values >90: 0. It's 0.0%.
+
+------------POWER------------
+
+Average total power is: 121661.65019.
+
+HF/LF/VLF
+Average HF is: 3198.6095941.
+Average LF is: 26798.8518461.
+Average VLF is: 43894.4935514.
+Average ULF is: 47605.3293218.
+
+----INDEX OF CENTRALISATION----
+Average IC = 43076.0964506
+
+-INDEX OF SUBCORTICAL CENTERS ACTIVITY-
+
+Average ISCA = 1.86730422376
+
+ ---------STRESS INDEX---------
+
+Average SI = 135.003274475
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+O2
+--------------HRV--------------
+
+Total number of HRV values: 6822
+Number of HRV values < 50: 0. It's 0.0%.
+Number of HRV values >50 & <60: 6519. It's 95.5584872471%.
+Number of HRV values >60 & <80: 303. It's 4.44151275286%.
+Number of HRV values >80 & <90: 0. It's 0.0%.
+Number of HRV values >90: 0. It's 0.0%.
+
+------------POWER------------
+
+Average total power is: 42093.3769112.
+
+HF/LF/VLF
+Average HF is: 2867.2769638.
+Average LF is: 9989.31402935.
+Average VLF is: 14282.7024354.
+Average ULF is: 14776.1055926.
+
+----INDEX OF CENTRALISATION----
+Average IC = 14003.3947597
+
+-INDEX OF SUBCORTICAL CENTERS ACTIVITY-
+
+Average ISCA = 1.550857061
+
+ ---------STRESS INDEX---------
+
+Average SI = 255.35282873
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+O3
+--------------HRV--------------
+
+Total number of HRV values: 7227
+Number of HRV values < 50: 3. It's 0.0415110004151%.
+Number of HRV values >50 & <60: 3754. It's 51.9440985194%.
+Number of HRV values >60 & <80: 3470. It's 48.0143904801%.
+Number of HRV values >80 & <90: 0. It's 0.0%.
+Number of HRV values >90: 0. It's 0.0%.
+
+------------POWER------------
+
+Average total power is: 127706.90099.
+
+HF/LF/VLF
+Average HF is: 7901.79097605.
+Average LF is: 38558.4565129.
+Average VLF is: 30356.8371953.
+Average ULF is: 50365.6245714.
+
+----INDEX OF CENTRALISATION----
+Average IC = 29790.4735978
+
+-INDEX OF SUBCORTICAL CENTERS ACTIVITY-
+
+Average ISCA = 0.824737158494
+
+ ---------STRESS INDEX---------
+
+Average SI = 145.510254086
+
+
+
+
+
+
+
+
+
+
+
+
+
+O4
+--------------HRV--------------
+
+Total number of HRV values: 4936
+Number of HRV values < 50: 1765. It's 35.7576985413%.
+Number of HRV values >50 & <60: 3025. It's 61.2844408428%.
+Number of HRV values >60 & <80: 146. It's 2.95786061588%.
+Number of HRV values >80 & <90: 0. It's 0.0%.
+Number of HRV values >90: 0. It's 0.0%.
+
+------------POWER------------
+
+Average total power is: 551642.389424.
+
+HF/LF/VLF
+Average HF is: 14583.0195226.
+Average LF is: 65896.0801586.
+Average VLF is: 344927.291377.
+Average ULF is: 125160.128829.
+
+----INDEX OF CENTRALISATION----
+Average IC = 337385.108966
+
+-INDEX OF SUBCORTICAL CENTERS ACTIVITY-
+
+Average ISCA = 6.37462482888
+
+ ---------STRESS INDEX---------
+
+Average SI = 31.7518608043
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+O5
+--------------HRV--------------
+
+Total number of HRV values: 5729
+Number of HRV values < 50: 2. It's 0.0349101064758%.
+Number of HRV values >50 & <60: 5600. It's 97.7482981323%.
+Number of HRV values >60 & <80: 127. It's 2.21679176121%.
+Number of HRV values >80 & <90: 0. It's 0.0%.
+Number of HRV values >90: 0. It's 0.0%.
+
+------------POWER------------
+
+Average total power is: 96747.0920388.
+
+HF/LF/VLF
+Average HF is: 1058.06506838.
+Average LF is: 13396.2624099.
+Average VLF is: 33808.1465129.
+Average ULF is: 48312.4058853.
+
+----INDEX OF CENTRALISATION----
+Average IC = 33065.862944
+
+-INDEX OF SUBCORTICAL CENTERS ACTIVITY-
+
+Average ISCA = 3.2604495326
+
+ ---------STRESS INDEX---------
+
+Average SI = 151.994466421
+
+
